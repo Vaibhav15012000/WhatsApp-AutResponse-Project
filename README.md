@@ -1,2 +1,4 @@
-# Python-Projects
-Python projects and automation made by me from beginner level to advanced level..
+# Whastapp Automation
+Whatsapp Auto response automation....
+First run colours and psoitions.py file and check you mouse cursor location.
+then run main.py file and see the result in your whatsapp web opened previously...
